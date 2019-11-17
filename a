@@ -1,3 +1,0 @@
-
-https://colab.research.google.com/drive/1Z3Pxo8ajbOfbFJsGtEdBzK9DNNM_uLHq
-X = Dense(classes, activation='softmax', name='Output',kernel_regularizer=regularizers.l2(lbda), kernel_initializer = glorot_uniform)(X)
